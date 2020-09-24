@@ -20,3 +20,6 @@ Live Demo / Actual Drawing ⚡️ :&nbsp;
 - All the `code files` are required to get started
 - Make Sure OpenGL and GLUT are Set up
 
+## Features
+
+Drawing a line : draws a line using the drag/drop ( Bresenham's algorithm is used here )

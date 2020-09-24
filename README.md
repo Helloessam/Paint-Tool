@@ -11,5 +11,3 @@ Screen Shot .. Actual Drawing : &nbsp;
 Live Demo / Actual Drawing ⚡️ :&nbsp;
 
 ![Paint tool Demo](https://github.com/Helloessam/Paint-tool/blob/master/Paint%20Project.gif)
-
-

@@ -20,7 +20,7 @@ Live Demo / Actual Drawing ⚡️ :&nbsp;
 - All the `code files` are required to get started
 - Make Sure OpenGL and GLUT are Set up
 
-## Main Menu Features
+## Gui Menu items
 Line : draws a line using the drag/drop ( Bresenham's algorithm )
 
 Rect : draws a rectangular form utilizing the mouse
